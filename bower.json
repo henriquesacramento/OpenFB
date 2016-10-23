@@ -1,8 +1,8 @@
 {
-  "name": "openfb",
-  "main": "openfb.js",
-  "version": "0.5.0",
-  "homepage": "https://github.com/ccoenraets/OpenFB",
+  "name": "ngopenfb",
+  "main": "ngopenfb.js",
+  "version": "0.5.1",
+  "homepage": "https://github.com/henriquesacramento/OpenFB",
   "authors": [
     "Christophe Coenraets <ccoenraets@gmail.com>"
   ],
