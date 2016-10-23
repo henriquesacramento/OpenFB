@@ -4,7 +4,7 @@
  *  - As an Angular service instead of a global object
  *  - Using promises instead of callbacks
  * @author Christophe Coenraets @ccoenraets
- * @version 0.5
+ * @version 0.5.1
  */
 angular.module('ngOpenFB', [])
 
