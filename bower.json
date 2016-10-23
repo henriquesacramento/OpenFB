@@ -2,7 +2,7 @@
   "name": "ngopenfb",
   "main": "ngopenfb.js",
   "version": "0.5.1",
-  "homepage": "https://github.com/henriquesacramento/OpenFB",
+  "homepage": "https://github.com/henriquesacramento/ngOpenFB",
   "authors": [
     "Christophe Coenraets <ccoenraets@gmail.com>"
   ],
