@@ -5,7 +5,7 @@
  * Cordova, you also don't need the Facebook Cordova plugin. There is also no dependency on jQuery.
  * OpenFB allows you to login to Facebook and execute any Facebook Graph API request.
  * @author Christophe Coenraets @ccoenraets
- * @version 0.5
+ * @version 0.5.1
  */
 var openFB = (function () {
 
